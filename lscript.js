@@ -16,7 +16,7 @@ lightDark.onclick = function(){
     body.classList.toggle('dark');
 
     if (dark) {
-        video.setAttribute('src', "C:\P@trick\C Pgms\Practice Projects\Prodigy_WD_01/Media/nightVideo_02.mp4");
+        video.setAttribute('src', "/Prodigy_WD_01/Media/nightVideo_02.mp4");
         } else {
             video.setAttribute('src', "/Prodigy_Infotech/WD_01/Media/dayVideo_01.mp4");
     }
